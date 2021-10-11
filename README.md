@@ -28,8 +28,13 @@ ADAM Optimizer is used for optimization of model with learning rate 0.001
 Random noise added via torch.randn() such that we can change noise by changing noise factor. We can also add Gaussin noise,salt noise and many more types of noises.
 
 ## OUTPUT
-
+Original Images:
+![image](https://user-images.githubusercontent.com/87741857/136761753-307ad2ca-d346-4bb9-8574-a19d193103df.png)
+Noisy Images:
 ![image](https://user-images.githubusercontent.com/87741857/136761600-3dc5d7f7-d0f0-4f1a-8509-8df03ba72a6b.png)
+Reconstructed Images:
+![image](https://user-images.githubusercontent.com/87741857/136761853-a323de91-977c-4188-8685-84d507b72084.png)
+
 
 
 
